@@ -4,7 +4,7 @@ Based on [lambda-gitster](https://github.com/ergenekonyigit/lambda-gitster)
 
 ## Screenshot
 
-[img](./img.png)
+![img](./img.png)
 
 If you do something wrong, you meet a **엄**
 
