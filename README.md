@@ -14,7 +14,7 @@ has dependency to [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 ```
 git clone https://github.com/xnBal/M_theme.git
-cp M_theme/M.zsh-tmeme ~/.oh-my-zsh/custom/themes/M.zsh-theme
+cp M_theme/M.zsh-theme ~/.oh-my-zsh/custom/themes/M.zsh-theme
 ```
 
 and modify to `~/.zshrc` file
